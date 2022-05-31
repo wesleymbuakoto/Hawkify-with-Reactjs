@@ -1,5 +1,7 @@
 # Hawkify-with-Reactjs
 
+Hackathon Link: https://devpost.com/software/hawkify-and-the-power-of-reactjs
+
 This is a quick spotify creation using reactjs. Along with grabbing information from spotify using there API.
 
 If would like to run this please make sure you follow the instructions here
